@@ -8,4 +8,4 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 # Environment variables can be set here or in Cloudflare Dashboard
-#
+#重新部署
